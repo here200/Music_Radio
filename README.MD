@@ -27,8 +27,8 @@ Mobbile: VLC for Android
 
 PC
 
-- ![PotPlayer](images/PotPlayer.png)
+- ![screenshot_2025.9.14_01](images/screenshot_2025.9.14_01.png)
 
 Mobbile
 
-- ![VLC for Android](images/VLC for Android.jpg)
+- ![screenshot_2025.9.14_02](images/screenshot_2025.9.14_02.jpg)
