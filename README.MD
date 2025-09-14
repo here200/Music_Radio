@@ -1,7 +1,7 @@
 ## FORMAT
 
 ~~~ TXT
-File Name: <name>_<signer>[_<type>][_<remark>]
+File Name: <name>_<signer>[_<type>][_<remark>...]
 
 Song List:
 	<singer>:
