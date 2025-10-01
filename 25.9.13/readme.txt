@@ -16,8 +16,7 @@ Recommend at 2025.09.13:
 		哪个叫做正义 哪个战无不胜_编曲：巴拉巴拉小魔仙
 	05 That Girl_Olly Murs
 	06 别让爱凋落(节奏版)_卢润泽
-	07 The One You Love_Glenn Frey
-	08 Lemon_米津玄师
+	07 Lemon_米津玄师
 
 PlayList:
 	01 爱的魔法_金莎
@@ -35,4 +34,3 @@ PlayList:
 	13 别让爱凋落(节奏版)_卢润泽
 	14 Remedy
 	15 青花瓷_翻唱_粤语
-	16 The One You Love_Glenn Frey

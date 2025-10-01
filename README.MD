@@ -12,7 +12,7 @@ Song List:
 
 ## MORE
 
-The sound source is as high-quality and lossless as possible.
+The sound source is as high-quality & lossless as possible.
 
 
 
