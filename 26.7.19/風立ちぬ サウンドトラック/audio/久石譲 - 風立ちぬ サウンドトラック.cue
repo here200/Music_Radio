@@ -1,0 +1,229 @@
+REM GENRE "Anime"
+REM DATE 2013-07-17
+REM DISCID CA0C6F20
+REM COMMENT "MGRT encoded by Act_yego"
+CATALOG 4988008123746
+PERFORMER "久石譲"
+TITLE "風立ちぬ サウンドトラック"
+FILE "01. 旅路(夢中飛行).wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "旅路(夢中飛行)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306610
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "流れ星"
+    PERFORMER "久石譲"
+    ISRC JPTK01306620
+    INDEX 00 02:54:64
+FILE "02. 流れ星.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "カプローニ(設計家の夢)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306630
+    INDEX 00 01:37:03
+FILE "03. カプローニ(設計家の夢).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "旅路(決意)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306640
+    INDEX 00 01:44:64
+FILE "04. 旅路(決意).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "菜穂子(出会い)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306650
+    INDEX 00 01:09:52
+FILE "05. 菜穂子(出会い).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "避難"
+    PERFORMER "久石譲"
+    ISRC JPTK01306660
+    INDEX 00 00:47:74
+FILE "06. 避難.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "恩人"
+    PERFORMER "久石譲"
+    ISRC JPTK01306670
+    INDEX 00 01:18:50
+FILE "07. 恩人.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 08 AUDIO
+    TITLE "カプローニ(幻の巨大機)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306680
+    INDEX 00 00:46:03
+FILE "08. カプローニ(幻の巨大機).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 09 AUDIO
+    TITLE "ときめき"
+    PERFORMER "久石譲"
+    ISRC JPTK01306690
+    INDEX 00 01:42:32
+FILE "09. ときめき.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 10 AUDIO
+    TITLE "旅路(妹)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306700
+    INDEX 00 00:39:09
+FILE "10. 旅路(妹).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 11 AUDIO
+    TITLE "旅路(初出社)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306710
+    INDEX 00 01:31:04
+FILE "11. 旅路(初出社).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 12 AUDIO
+    TITLE "隼班"
+    PERFORMER "久石譲"
+    ISRC JPTK01306720
+    INDEX 00 01:27:41
+FILE "12. 隼班.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 13 AUDIO
+    TITLE "隼"
+    PERFORMER "久石譲"
+    ISRC JPTK01306730
+    INDEX 00 01:33:65
+FILE "13. 隼.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 14 AUDIO
+    TITLE "ユンカース"
+    PERFORMER "久石譲"
+    ISRC JPTK01306740
+    INDEX 00 01:19:18
+FILE "14. ユンカース.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 15 AUDIO
+    TITLE "旅路(イタリアの風)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306750
+    INDEX 00 01:27:67
+FILE "15. 旅路(イタリアの風).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 16 AUDIO
+    TITLE "旅路(カプローニの引退)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306760
+    INDEX 00 01:44:17
+FILE "16. 旅路(カプローニの引退).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 17 AUDIO
+    TITLE "旅路(軽井沢の出会い)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306770
+    INDEX 00 01:16:73
+FILE "17. 旅路(軽井沢の出会い).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 18 AUDIO
+    TITLE "菜穂子(運命)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306780
+    INDEX 00 01:43:18
+FILE "18. 菜穂子(運命).wav" WAVE
+    INDEX 01 00:00:00
+FILE "19. 菜穂子(虹).wav" WAVE
+  TRACK 19 AUDIO
+    TITLE "菜穂子(虹)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306790
+    INDEX 01 00:00:00
+  TRACK 20 AUDIO
+    TITLE "カストルプ(魔の山)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306800
+    INDEX 00 01:07:52
+FILE "20. カストルプ(魔の山).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 21 AUDIO
+    TITLE "風"
+    PERFORMER "久石譲"
+    ISRC JPTK01306810
+    INDEX 00 01:07:19
+FILE "21. 風.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 22 AUDIO
+    TITLE "紙飛行機"
+    PERFORMER "久石譲"
+    ISRC JPTK01306820
+    INDEX 00 00:51:28
+FILE "22. 紙飛行機.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 23 AUDIO
+    TITLE "菜穂子(プロポーズ)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306830
+    INDEX 00 02:36:54
+FILE "23. 菜穂子(プロポーズ).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 24 AUDIO
+    TITLE "八試特偵"
+    PERFORMER "久石譲"
+    ISRC JPTK01306840
+    INDEX 00 01:09:05
+FILE "24. 八試特偵.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 25 AUDIO
+    TITLE "カストルプ(別れ)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306850
+    INDEX 00 00:58:00
+FILE "25. カストルプ(別れ).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 26 AUDIO
+    TITLE "菜穂子(会いたくて)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306860
+    INDEX 00 01:46:06
+FILE "26. 菜穂子(会いたくて).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 27 AUDIO
+    TITLE "菜穂子(めぐりあい)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306870
+    INDEX 00 03:03:40
+FILE "27. 菜穂子(めぐりあい).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 28 AUDIO
+    TITLE "旅路(結婚)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306880
+    INDEX 00 03:03:40
+FILE "28. 旅路(結婚).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 29 AUDIO
+    TITLE "菜穂子(眼差し)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306890
+    INDEX 00 01:55:44
+FILE "29. 菜穂子(眼差し).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 30 AUDIO
+    TITLE "旅路(別れ)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306900
+    INDEX 00 01:00:69
+FILE "30. 旅路(別れ).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 31 AUDIO
+    TITLE "旅路(夢の王国)"
+    PERFORMER "久石譲"
+    ISRC JPTK01306910
+    INDEX 00 01:17:39
+FILE "31. 旅路(夢の王国).wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 32 AUDIO
+    TITLE "ひこうき雲"
+    PERFORMER "荒井由実"
+    ISRC JPTO01202394
+    INDEX 00 03:32:69
+FILE "32. ひこうき雲.wav" WAVE
+    INDEX 01 00:00:00
